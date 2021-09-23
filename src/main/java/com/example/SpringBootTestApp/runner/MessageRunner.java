@@ -8,7 +8,7 @@ public class MessageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("Hi.......Hello");
-		System.out.println("Practise");
+		System.out.println("Pramila how are you");
 
 	}
 
