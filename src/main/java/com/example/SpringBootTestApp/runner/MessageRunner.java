@@ -19,7 +19,7 @@ public class MessageRunner implements CommandLineRunner {
 		System.out.println("Hi Ranjitha");
 		
 		System.out.println("Hi Pramila");
-		System.out.println("Hi jyothi")
+		System.out.println("Hi jyothi");
 	}
 
 }
